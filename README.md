@@ -1,7 +1,7 @@
 ## Hello, Im Harde <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsunknown488&color=blueviolet)
-<a href="(https://discord.gg/7ukt5kRYew)"><img src="https://discord.com/api/guilds/762782408528887819/embed.png"/></a>
+<a href="https://discord.gg/7ukt5kRYew"><img src="https://discord.com/api/guilds/762782408528887819/embed.png"/></a>
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -14,10 +14,4 @@
 <br />
 <br />
 
-## Stats
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=itsunknown488&theme=dracula"></div>
 
-<details>
-  <summary><b>GitHub</b> Activity</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsunknown488&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsunknown488&theme=tokyonight&hide=batchfile">
-</details>
